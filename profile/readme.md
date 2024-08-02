@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/fotocerimonieeventi/open-depot/main/mockup/screenshot.jpg">
+<img src="https://raw.githubusercontent.com/fotocerimoneeventi/open-depot/main/mockups/banner.jpg">
 
 ---
 
